@@ -1,4 +1,8 @@
 ```
+screen -S gaianetrestart
+```
+
+```
 git clone https://github.com/cuansegar/gaianet-restart && cd gaianet-restart
 ```
 
